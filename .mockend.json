@@ -1,7 +1,7 @@
 {
-  "login": {
-    "email": "email@sbd.com.co",
-    "password":"string"
-  }
+    "Login": {
+        "email": "email@sbd.com.co",
+         "password":"string"
+    }
   
   }
