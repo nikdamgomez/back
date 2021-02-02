@@ -1,6 +1,6 @@
 {
     "User": {
-        "email": "email@sbd.com.co",
+        "email": "string",
          "password":"string"
     }
   
