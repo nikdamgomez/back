@@ -1,6 +1,6 @@
-l{
+{
   "Login": {
-    "id": "email@sbd.com.co",
+    "email": "email@sbd.com.co",
     "password":"string"
   }
   
