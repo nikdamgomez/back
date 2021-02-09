@@ -1,6 +1,6 @@
 {
-    "data": {
-        "user":[
+  "data": {
+    "posts": [
       {
         "id": 21,
         "title": "xhZctrcDeP",
@@ -27,6 +27,5 @@
         "views": 95
       }
     ]
-    }
-  
   }
+}
