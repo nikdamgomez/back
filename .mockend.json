@@ -4,5 +4,14 @@
     "nombre": "string",
     "email": "string",
     "password": "string"
+  },
+  "Client": {
+    "id": "int",
+    "nombre": "string",
+    "email": "string",
+    "password": "string",
+    "rol": "int",
+    "estado": "int",
+    "fecha_creacion": "date" 
   }
 }
