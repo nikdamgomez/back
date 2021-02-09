@@ -1,5 +1,5 @@
 {
-  "USER": {
+  "User": {
     "id": "int",
     "nombre": "string",
     "email": "string",
