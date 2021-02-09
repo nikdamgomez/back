@@ -3,15 +3,9 @@
     "id": "int",
     "nombre": "string",
     "email": "string",
-    "password": "string"
-  },
-  "Client": {
-    "id": "int",
-    "nombre": "string",
-    "email": "string",
     "password": "string",
     "rol": "int",
-    "estado": "int",
+    "estado": "boolean",
     "fecha_creacion": "date" 
   }
 }
