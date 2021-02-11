@@ -8,7 +8,7 @@
     "estado": "boolean",
     "fecha_creacion": "date" 
   },
-  "Project"{
+  "Project":{
     "id": "string", 
     "user": "User",
     "nombre" : "string",
