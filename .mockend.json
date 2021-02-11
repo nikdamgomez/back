@@ -10,12 +10,12 @@
   },
   "Project":{
     "id": "string", 
-    "user": "User",
     "nombre" : "string",
     "descripcion": "string",
     "estado": "string",
     "estado_entrega": "string",
     "fecha_inicio": "date",
-    "fecha_plan_fin": "date"
+    "fecha_plan_fin": "date",
+      "user": "User"
   }
 }
