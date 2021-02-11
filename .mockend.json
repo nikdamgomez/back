@@ -16,7 +16,6 @@
     "estado": "string",
     "estado_entrega": "string",
     "fecha_inicio": "date",
-    "fecha_plan_fin": "date,
-    "fecha_fin": "date"
-}
+    "fecha_plan_fin": "date"
+  }
 }
