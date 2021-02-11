@@ -16,6 +16,6 @@
     "estado_entrega": "string",
     "fecha_inicio": "date",
     "fecha_plan_fin": "date",
-      "user": "User[]"
+      "user": "User"
   }
 }
